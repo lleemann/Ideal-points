@@ -1,4 +1,4 @@
-# ideal_gb_ll
+# Ideal Points
 
 This project is a collaboration of Garret Binding (IPZ, University of Zürich), Lucas Leemann (IPZ, University of Zürich), Hannes Weber (Tamedia), and Barnaby Skinner (Tamedia).
 
