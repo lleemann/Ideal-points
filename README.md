@@ -1,4 +1,4 @@
-# Ideal Points
+# Ideal Points 2018
 
 This project is a collaboration of Garret Binding (IPZ, University of Zürich), Lucas Leemann (IPZ, University of Zürich), Hannes Weber (Tamedia), and Barnaby Skinner (Tamedia).
 
