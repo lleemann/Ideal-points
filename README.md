@@ -2,7 +2,7 @@
 
 This project is a collaboration of Garret Binding (IPZ, University of Zürich), Lucas Leemann (IPZ, University of Zürich), Hannes Weber (Tamedia), and Barnaby Skinner (Tamedia).
 
-The detailed report can be found here: [Link to report (in German)](ADD LINK).
+The detailed report can be found here: [Link to report (in German)](https://github.com/lleemann/Ideal-points-2018/blob/master/Idealpunkte_2018.pdf).
 
 ### Objective
 
